@@ -1,0 +1,8 @@
+module.exports = {
+    "tenant": "",
+    "appId": "",
+    "appKey": "",
+    "baseUri": "http://localhost:8080/api",
+    "offline" : false,
+    "debugMode": "release"
+};
