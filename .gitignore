@@ -1,4 +1,6 @@
 *~
 *.bak
+node_modules/
+package-lock.json
 
 nebula_config.js

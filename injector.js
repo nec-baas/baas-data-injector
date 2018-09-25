@@ -1,4 +1,4 @@
-const Nebula = require('./baas.js');
+const Nebula = require('@nec-baas/jssdk').Nebula;
 const NebulaConfig = require('./nebula_config.js');
 const config = require('./config.js');
 

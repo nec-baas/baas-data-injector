@@ -1,0 +1,22 @@
+{
+  "name": "baas-data-injector",
+  "version": "1.0.0",
+  "description": "BaaS dummy data injector",
+  "main": "injector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nec-baas/baas-data-injector.git"
+  },
+  "author": "NEC Corporation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nec-baas/baas-data-injector/issues"
+  },
+  "homepage": "https://github.com/nec-baas/baas-data-injector#readme",
+  "dependencies": {
+    "@nec-baas/jssdk": "^7.0.2"
+  }
+}

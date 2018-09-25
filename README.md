@@ -15,6 +15,10 @@ IoT 向けダミーデータを定期的に生成して BaaS の JSON オブジ�
 
 Node.js が必要ですので、事前にインストールしてください。
 
+以下手順で NEC BaaS JavaScript SDK を組み込んでください。
+
+    $ npm install
+
 nebula_config.js.template を nebula_config.js にコピーし、
 BaaSサーバ接続用のパラメータを記入してください。
 パラメータの詳細は、BaaS JavaScript SDK ガイドを参照ください。
